@@ -9,8 +9,6 @@
   </tr>
 </table>
 
----
-
 <p align="center">
   <a href="https://t.me/fiecher"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=6EE7B7"/></a>
   <a href="mailto:stepanbelebezev@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=6EE7B7"/></a>
