@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiecher&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiecher&layout=compact&bg_color=0d1117&title_color=6EE7B7&text_color=C9D1D9&icon_color=34D399&border_color=30363d)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
